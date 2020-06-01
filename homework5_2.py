@@ -11,4 +11,4 @@ ILS_USD = results['ILS_USD']
 val = ILS_USD['val']
 ILS = input("Welcome to currency converter \nPlease enter an amount of Shekeles to convert:")
 print(int(ILS) * val)
-print("Thanks for using our currency converter")
+print("Thanks for using our currency converter!")
